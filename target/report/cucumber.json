@@ -1,0 +1,60 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-12-16T15:57:55.362Z",
+        "line": 4,
+        "name": "This is a test scenario",
+        "description": "",
+        "id": "this-is-a-test;this-is-a-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3649500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am at some place",
+            "match": {
+              "location": "com.techarchive.cucumberReporting.StepDefinition.i_am_at_some_place()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 293100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I do some action",
+            "match": {
+              "location": "com.techarchive.cucumberReporting.StepDefinition.i_do_some_action()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 201000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Something happens",
+            "match": {
+              "location": "com.techarchive.cucumberReporting.StepDefinition.something_happens()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "This is a test",
+    "description": "",
+    "id": "this-is-a-test",
+    "keyword": "Feature",
+    "uri": "file:features/test.feature",
+    "tags": []
+  }
+]
