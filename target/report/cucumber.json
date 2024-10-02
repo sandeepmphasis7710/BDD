@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-12-16T15:57:55.362Z",
+        "start_timestamp": "2024-10-02T13:49:44.397Z",
         "line": 4,
         "name": "This is a test scenario",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3649500,
+              "duration": 3683200,
               "status": "passed"
             },
             "line": 6,
@@ -25,7 +25,6 @@
           },
           {
             "result": {
-              "duration": 293100,
               "status": "passed"
             },
             "line": 8,
@@ -37,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 201000,
+              "duration": 7260128700,
               "status": "passed"
             },
             "line": 10,
