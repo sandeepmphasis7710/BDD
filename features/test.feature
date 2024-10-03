@@ -7,4 +7,4 @@
 
     When I do some action
 
-    Then Something happens
+    Then Open Url
