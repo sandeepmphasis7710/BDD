@@ -39,8 +39,7 @@ public class StepDefinition {
 		driver.get("https://selenium.dev");
 		String var;
 		var = driver.getTitle();
-
-		 	assertEquals(var, "Selenium");
+		assertEquals(var, "Selenim");
 
 		driver.quit();
 		//driver.get("http://www.google.com");

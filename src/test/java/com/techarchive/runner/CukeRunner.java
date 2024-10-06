@@ -12,7 +12,7 @@ import io.cucumber.junit.CucumberOptions;
                 "html:target/report/cucumber.html",
                 "json:target/report/cucumber.json"
         },
-        features = {"features"},
+        features={"features"},
        glue = {"com.techarchive.cucumberReporting"}
        
 )
